@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from develop branch"
+echo "Hello from develop branch".
